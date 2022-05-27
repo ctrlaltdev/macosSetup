@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/usr/bin/env zsh
 
 curl -fsSL "https://raw.githubusercontent.com/ctrlaltdev/.env/main/.aliases" -o ~/.aliases
 curl -fsSL "https://raw.githubusercontent.com/ctrlaltdev/.env/main/.path" -o ~/.path

@@ -1,3 +1,3 @@
 #!/usr/bin/env sh
 
-curl -fsSL "https://go.microsoft.com/fwlink/?LinkID=620882" -o ~/Downloads/vscode.zip
+curl -fsSL "https://code.visualstudio.com/sha/download?build=stable&os=darwin-arm64" -o ~/Downloads/vscode.zip

@@ -8,3 +8,4 @@ brew install figlet
 brew install jq
 
 brew tap ctrlaltdev/tap
+brew tap techholdingllc/tap
